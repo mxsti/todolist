@@ -1,4 +1,5 @@
 "use client";
+import './globals.css'
 import { useSession } from "next-auth/react";
 import { redirect } from "next/navigation";
 import Tasklist from "./components/tasklist.component";

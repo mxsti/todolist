@@ -1,6 +1,5 @@
 import { Inter } from 'next/font/google'
 import './pico.min.css'
-import './globals.css'
 import type { Metadata } from 'next'
 import { NextAuthProvider } from './providers'
 
